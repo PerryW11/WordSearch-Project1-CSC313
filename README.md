@@ -1,4 +1,4 @@
-# WordSearch Project1 CSC313
+# WordSearch Project 1 CSC313
  
 ## Below you will find the word for word requirements given by the professor of the Java course. 
  
